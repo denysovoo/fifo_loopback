@@ -1,0 +1,3 @@
+[submodule "ft2232fifo_test"]
+	path = ft2232fifo_test
+	url = https://github.com/codebreaker7/ft2232fifo_test
